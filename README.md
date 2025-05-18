@@ -13,6 +13,17 @@ BERT (Bidirectional Encoder Representations from Transformers) is a transformer-
 
 In this project, we used the pre-trained `bert-base-uncased` model with a classification head for binary sentiment classification (positive vs. negative).
 
+### 📊 BERT Architecture Diagram
+
+![BERT Architecture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-AHw6mjJc4rVbBtx3U0U8g.png)
+
+> *Source: Devlin et al., 2018*
+
+### 📚 Citation
+
+Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018).  
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805). *arXiv:1810.04805*
+
 ## 📌 Key Features
 - Fine-tuned a BERT model on 10K+ tweets from the Sentiment140 dataset using Colab.
 - Deployed the trained model as a RESTful endpoint using AWS SageMaker and Hugging Face SDK.
