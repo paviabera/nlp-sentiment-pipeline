@@ -93,6 +93,12 @@ Pavia Bera
 PhD in AI & Machine Learning  
 University of South Florida
 
+
+
+## 📚 References
+- Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805). arXiv:1810.04805.
+
+
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
